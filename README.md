@@ -226,7 +226,7 @@ localhost:8000/discover-keywords
 ```
 PDF File View:
 
-/public/sample-demo.pdf
+D:\xampp\htdocs\PHP_Laravel12_Read_PDF_File_Content\public\same-demo.pdf
 
 This PDF contains sample text that can be used for testing:
 
