@@ -228,7 +228,7 @@ PDF File:
 
 You can download the sample PDF using the link below:
 ```
-[Download sample-demo.pdf](public/sample-demo.pdf)
+public/sample-demo.pdf
 ```
 This PDF contains sample text that can be used for testing:
 
