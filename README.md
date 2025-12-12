@@ -226,10 +226,7 @@ localhost:8000/discover-keywords
 ```
 PDF File View:
 
-<img width="1915" height="1077" alt="Screenshot 2025-12-12 104649" src="public/samle-demo.pdf" />
-
-
-This PDF contains sample text that can be used for testing:
+<img width="1915" height="1077" alt="Screenshot 2025-12-12 104649" src="https://github.com/user-attachments/assets/2dfe2f77-59cd-4ae4-91d1-1478c19e5400" />
 
 ---
 
