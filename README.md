@@ -83,29 +83,35 @@ yum install poppler-utils
 
 Download Poppler for Windows from:
 
+```bash
 https://github.com/oschwartz10612/poppler-windows/releases/
+```
 
 Choose:
 
+```
 Release-25.12.0-0.zip
-
+```
 
 Extract the ZIP to a folder, e.g.:
 
+```
 C:\poppler-25.12.0
-
+```
 
 Add to your system PATH:
 
+```
 C:\poppler-25.12.0\Library\bin
-
+```
 
 Verify installation:
 
 Open a new Command Prompt and run:
 
+```
 pdftotext -v
-
+```
 
 If you see version info, Poppler is installed correctly.### 4. Place a sample PDF
 
