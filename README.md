@@ -228,7 +228,7 @@ PDF File:
 
 You can download the sample PDF using the link below:
 ```
-public/sample-demo.pdf
+PHP_Laravel12_Read_PDF_File_Content/public/sample-demo.pdf
 ```
 This PDF contains sample text that can be used for testing:
 
