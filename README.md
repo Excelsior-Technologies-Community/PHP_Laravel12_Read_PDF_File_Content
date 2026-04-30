@@ -243,3 +243,8 @@ PDF File View:
 MIT — use freely for learning and assignment purposes.
 
 Now Your Project is Ready! 
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> development

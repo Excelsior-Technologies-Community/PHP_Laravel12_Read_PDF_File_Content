@@ -12,6 +12,7 @@ class Pdf extends Model
     protected $fillable = [
         'name',
         'file_path',
+        'file_size',
         'download_count'
     ];
 }
