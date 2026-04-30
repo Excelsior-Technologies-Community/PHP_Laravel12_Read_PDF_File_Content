@@ -11,6 +11,7 @@ return new class extends Migration {
             $table->id();
             $table->string('name');
             $table->string('file_path');
+            $table->string('file_size')->nullable();
             $table->integer('download_count')->default(0);
             $table->timestamps();
         });
